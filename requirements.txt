@@ -1,1 +1,4 @@
-flask\nbasic-pitch\nnumpy\nsoundfile
+flask
+basic-pitch
+numpy
+soundfile
